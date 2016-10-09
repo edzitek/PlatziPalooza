@@ -1,0 +1,27 @@
+.naranja{
+    background-color: #FF4842;
+}
+.verde{
+    background-color: #7DCD40;
+}
+
+.azul{
+    background-color:#225AA4;
+}
+.gris {
+    background-color: #F2F2F2;
+}
+.box{
+   margin: 0.4em 0;
+border:5px solid white;
+}
+.box--small{
+    height: 80px;
+
+}
+.box--medium{
+    height: 150px;
+}
+.box--large{
+    height:400px;
+}
